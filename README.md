@@ -1,4 +1,4 @@
-# hs-guess-the-number
+# Guess the Booty / Pirate Minigame :D
 Guess the Number || Submission for High Seas
 
 ---
